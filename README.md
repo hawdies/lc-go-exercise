@@ -1,2 +1,3 @@
 # lc-go-exercise
-go语言leetcode练习题
+
+go语言刷题记录
